@@ -1,0 +1,5 @@
+*.exe
+*.dll
+/Lesson_01/obj/*
+/Lesson_01/bin/*
+/.vc/*
