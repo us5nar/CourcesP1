@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{97A9F803-E63F-49C5-8334-F361D928C892}</ProjectGuid>
+    <ProjectGuid>{1AF96276-846B-47D9-871A-87A2EAA7EC91}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lesson_04</RootNamespace>
-    <AssemblyName>Lesson_04</AssemblyName>
+    <RootNamespace>_03_CircularQueue</RootNamespace>
+    <AssemblyName>03_CircularQueue</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
