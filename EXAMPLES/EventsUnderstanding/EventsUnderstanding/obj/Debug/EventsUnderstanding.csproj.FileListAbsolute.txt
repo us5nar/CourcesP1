@@ -1,0 +1,5 @@
+D:\Documents\Cources\EventsUnderstanding\EventsUnderstanding\bin\Debug\EventsUnderstanding.exe
+D:\Documents\Cources\EventsUnderstanding\EventsUnderstanding\bin\Debug\EventsUnderstanding.pdb
+D:\Documents\Cources\EventsUnderstanding\EventsUnderstanding\obj\Debug\EventsUnderstanding.csprojResolveAssemblyReference.cache
+D:\Documents\Cources\EventsUnderstanding\EventsUnderstanding\obj\Debug\EventsUnderstanding.exe
+D:\Documents\Cources\EventsUnderstanding\EventsUnderstanding\obj\Debug\EventsUnderstanding.pdb
